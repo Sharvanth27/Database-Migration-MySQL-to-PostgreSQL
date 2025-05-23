@@ -70,3 +70,5 @@ The dump file is parsed to separate the INSERT statements for use in PostgreSQL.
 
 Step 4: Importing Tables into PostgreSQL
 The converted schema and extracted data are successfully imported into the PostgreSQL target database using psql.
+
+<img width="355" alt="Image" src="https://github.com/user-attachments/assets/dd2e2065-5887-46bf-9b3e-e0ab1e4f9d1d" />
