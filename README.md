@@ -55,6 +55,9 @@ Both MySQL and PostgreSQL servers are configured and running locally or via cont
 
 <img width="302" alt="Image" src="https://github.com/user-attachments/assets/048def2c-84c3-44c2-8846-857c18c6a581" />
 
+<img width="301" alt="Image" src="https://github.com/user-attachments/assets/46faca6a-a581-41cb-b2f4-39c733e3e3e2" />
+
+
 
 Step 2: Creating & Exporting the MySQL Database
 A complete export of the source MySQL database is performed using mysqldump.
