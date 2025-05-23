@@ -59,6 +59,8 @@ Both MySQL and PostgreSQL servers are configured and running locally or via cont
 Step 2: Creating & Exporting the MySQL Database
 A complete export of the source MySQL database is performed using mysqldump.
 
+<img width="442" alt="Image" src="https://github.com/user-attachments/assets/2ce5a09f-bbdb-4138-a938-58cf018872cd" />
+
 
 Step 3: Extracting INSERT Queries
 The dump file is parsed to separate the INSERT statements for use in PostgreSQL.
