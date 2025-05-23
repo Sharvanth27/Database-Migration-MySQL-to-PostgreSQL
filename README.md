@@ -65,6 +65,8 @@ A complete export of the source MySQL database is performed using mysqldump.
 Step 3: Extracting INSERT Queries
 The dump file is parsed to separate the INSERT statements for use in PostgreSQL.
 
+<img width="354" alt="Image" src="https://github.com/user-attachments/assets/f858338c-146e-4819-bd61-a6c16c917a67" />
+
 
 Step 4: Importing Tables into PostgreSQL
 The converted schema and extracted data are successfully imported into the PostgreSQL target database using psql.
