@@ -53,6 +53,8 @@ Report (Process Overview)
 Step 1: Setting up MySQL and PostgreSQL Environments
 Both MySQL and PostgreSQL servers are configured and running locally or via containers.
 
+<img width="302" alt="Image" src="https://github.com/user-attachments/assets/048def2c-84c3-44c2-8846-857c18c6a581" />
+
 
 Step 2: Creating & Exporting the MySQL Database
 A complete export of the source MySQL database is performed using mysqldump.
